@@ -1,0 +1,8 @@
+
+http://localhost:8080 - фронт
+https://localhost:3000 - бек
+
+
+Возомжна проблема с CORS (axios ругался, но запросы делал. хз как обьяснить).
+ConnectionString к базе лежит в ApplicationContext.cs, база MariaDb 10.1.38 (xampp).
+Полный дамп базы прикрепил.
